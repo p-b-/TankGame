@@ -10,6 +10,8 @@ This was similar to how games used to be written in the past, apart from the rel
 
 This is not how to write 3d games.  
 
+![Tank Game Image](https://github.com/p-b-/TankGame/blob/master/tank.png?raw=true)
+
 **Controls**
 
 Click the window to capture the mouse, press Escape to release capture.
